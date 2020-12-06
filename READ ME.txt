@@ -1,0 +1,5 @@
+Run the Steam Games Price Initial file once.
+-This generates a csv file with 50 games along with their current prices.
+
+Run the Daily Duties file every day.
+-This tracks the prices of those games everyday
