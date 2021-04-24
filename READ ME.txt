@@ -1,5 +1,4 @@
-Run the Steam Games Price Initial file once.
--This generates a csv file with 50 games along with their current prices.
+Run the initial.ipynb file. This helps generate a csv file with a list of top 50 games.
 
-Run the Daily Duties file every day.
--This tracks the prices of those games everyday
+Run the daily_duties.ipynb file which will help add a column with prices on that particular day for the list of games generated previously.
+Make sure to download the appropriate chromedrivers (version) and store it in the correct PATH.
